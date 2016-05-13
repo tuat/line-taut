@@ -1,0 +1,16 @@
+<?php
+return [
+    'logger' => [
+        'name' => 'Line Bot'
+    ],
+
+    'bot' => [
+        'channelId'     => '<your channel ID>',
+        'channelSecret' => '<your channel secret>',
+        'channelMid'    => '<your channel MID>',
+    ],
+
+    'tautr' => [
+        'apiKey' => '<your api key>'
+    ],
+];
