@@ -13,4 +13,4 @@ Add callback
     - Go to url line developer page (https://developers.line.me/)
     - Click the Channels links in the top right side
     - Select apps
-    - Edit > Callback URL
+    - Edit > Callback URL (https://domain.com:443/callback)
